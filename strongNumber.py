@@ -91,4 +91,4 @@ class Strong_num:
                 print("The given number",self.num,"is not a strong number")
 
 st = Strong_num()
-st.isStrong()
+st.isStrong() 
